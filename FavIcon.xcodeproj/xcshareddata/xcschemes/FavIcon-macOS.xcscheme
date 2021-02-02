@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FavIcon::FavIcon"
                BuildableName = "FavIcon.framework"
-               BlueprintName = "FavIcon-macOS"
+               BlueprintName = "FavIcon"
                ReferencedContainer = "container:FavIcon.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -34,7 +34,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FavIcon::FavIconTests"
                BuildableName = "FavIconTests.xctest"
-               BlueprintName = "FavIcon-macOSTests"
+               BlueprintName = "FavIconTests"
                ReferencedContainer = "container:FavIcon.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -55,7 +55,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FavIcon::FavIcon"
             BuildableName = "FavIcon.framework"
-            BlueprintName = "FavIcon-macOS"
+            BlueprintName = "FavIcon"
             ReferencedContainer = "container:FavIcon.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
